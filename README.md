@@ -4,7 +4,7 @@ This repo has all the code behind the stories we share about the things we’re 
 
 ## Stories
 
-- [Can We Forecast the Stock Market Using Only Closing Prices?](./can-we-forecast-closing-price/code.ipynb) - Published in TODO
+- [Can We Forecast the Stock Market Using Only Closing Prices?](./can-we-forecast-closing-price/code.ipynb) - Posted in TODO
 
 ## License
 
